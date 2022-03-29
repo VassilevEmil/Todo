@@ -1,0 +1,38 @@
+
+.filterbar[b-2vmocqnt9p] {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;
+
+}
+
+.filterscontainer[b-2vmocqnt9p]{
+    display: flex;
+}
+
+.filter[b-2vmocqnt9p] {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.completedstatusfield[b-2vmocqnt9p] {
+    width: 100px;
+    text-align: center;
+    font-size: large;
+    height: 30px;
+}
+
+.owneridfield[b-2vmocqnt9p] {
+    width: 100px;
+    text-align: center;
+}
+
+.funnel[b-2vmocqnt9p]{
+    width:30px;
+    height:30px;
+    cursor: pointer;
+}
